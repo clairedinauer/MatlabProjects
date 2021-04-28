@@ -14,3 +14,17 @@ I had three main independent variables: (1) whether words were a consistent font
 
 ## Predicted Results
 I expect that manipulating font size in addition to manipulating when subjects make JOLs will slow down the learning process or recognition of the serial position effect when recalling words, as the larger font size would create an illusion of better learning. When making JOLs after a word is presented, I expect that participants will not adjust their JOLs across trials in accordance with serial position, as they will be focused on intrinsic factors of the words to guide their judgments. However, participants will likely adjust their JOLs across trials when making JOLs before each word is presented, as they will be forced to think about the position of the word in the list (an extrinsic factor) and thereby consider serial position effects. Moreover, participants will make their most accurate JOLs when the serial position of a word is visible since they can more easily consider the serial position effect when aware of where they are in a list. Participants are unable to consider item-specific properties when they cannot see the word, and so they adjust their JOLs in accordance with word position. Moreover, participants will likely demonstrate no significant difference in word recall based on font size. However, they may make lower JOLs when knowingly presented with small font words and slightly larger JOLs when presented with large font words because it is easy to consider the font size as indicative of later recall ability.
+
+## Visualization of Predicted Results
+
+**Condition #1:** Consistent Font Size and JOL Made Before Each Word
+
+**Condition #2:** Varied Font Size and JOL Made Before Each Word
+
+**Condition #3:** Consistent Font Size and JOL Made After Each Word
+
+**Condition #4:** Varied Font Size and JOL Made After Word
+
+**Condition #5:** Consistent Font Size, JOL Made After Word, and Serial Number Included
+
+**Condition #6:** Varied Font Size, JOL Made After Word, and Serial Number Included
