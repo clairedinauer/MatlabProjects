@@ -19,7 +19,7 @@ I expect that manipulating font size in addition to manipulating when subjects m
 
 **Condition #1:** Consistent Font Size and JOL Made Before Each Word
 
-<img src="ExpectedJOLsCondition1.png" width="500" height="300"/>
+<img src="ExpectedJOLsCondition1.png" width="500" height="350"/>
 
 **Condition #2:** Varied Font Size and JOL Made Before Each Word
 
