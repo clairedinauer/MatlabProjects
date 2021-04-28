@@ -1,7 +1,7 @@
 # Judgments of Learning and The Serial Position Effect
 #### A MATLAB PROJECT BY CLAIRE DINAUER || JUNE 9, 2020
 
-*This project explores how people make predictions of their own learning (or Judgments of Learning), and how awareness of the Serial Position Effect may influence the accuracy of individuals' predictions for how well they will learn information*
+>This project explores how people make predictions of their own learning (or Judgments of Learning), and how awareness of the Serial Position Effect may influence the accuracy of individuals' predictions for how well they will learn information.
 
 ## Research Question 
 How does manipulating intrinsic factors and the timing in which someone makes a Judgment of Learning (JOL) affect predictions of later recall ability, and can individuals demonstrate learning of the Serial Position Effect when predicting how well they will recall information in the future whether or not serial position is visibly available to them?
