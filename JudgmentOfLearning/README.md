@@ -19,12 +19,24 @@ I expect that manipulating font size in addition to manipulating when subjects m
 
 **Condition #1:** Consistent Font Size and JOL Made Before Each Word
 
+[Condition 1](ExpectedJOLsCondition1.png)
+
 **Condition #2:** Varied Font Size and JOL Made Before Each Word
+
+[Condition 2](ExpectedJOLsCondition2.png)
 
 **Condition #3:** Consistent Font Size and JOL Made After Each Word
 
+[Condition 3](ExpectedJOLsCondition3.png)
+
 **Condition #4:** Varied Font Size and JOL Made After Word
+
+[Condition 4](ExpectedJOLsCondition4.png)
 
 **Condition #5:** Consistent Font Size, JOL Made After Word, and Serial Number Included
 
+[Condition 5](ExpectedJOLsCondition5.png)
+
 **Condition #6:** Varied Font Size, JOL Made After Word, and Serial Number Included
+
+[Condition 6](ExpectedJOLsCondition6.png)
