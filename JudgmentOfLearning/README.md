@@ -1,7 +1,22 @@
 # Judgments of Learning and The Serial Position Effect
 #### A MATLAB PROJECT BY CLAIRE DINAUER || JUNE 9, 2020
 
->This project explores how people make predictions of their own learning (or Judgments of Learning), and how awareness of the Serial Position Effect may influence the accuracy of individuals' predictions for how well they will learn information.
+> This program runs a free recall task, in which participants must make Judgments of Learning (JOLs) for how likely they think they are to recall words on a later recall test. The research question is: "Will people make more accurate JOLs that are reflective of the Serial Position effect if they make a JOL before or after a word is presented? Does font size influence our JOLs and actual recall?"
+
+> Two Independent Variables:
+>     1) When JOL is Made: Before Word Presentation vs After Word Presentation
+>     2) Font Size: Words are Same Size vs Words are Different Sizes
+> Dependent Variables:
+>     1) JOLs made on each trial (percentage of 0 to 100)
+>     2) Actual recall of words  (percentage of 0 to 100)
+>     
+> Conditions are as follows:
+> - Condition 1: JOLs are made after each word and font size is constant
+> - Condition 2: JOLs are made after each word and font size is varied
+> - Condition 3: JOLs are made before each word and font size is constant
+> - Condition 4: JOLs are made before each word and font size is varied
+> - Condition 5: JOLs are made before each word, font size is constant, and position number is included
+> - Condition 6: JOLs are made before each word, font size is varied, and position number is included
 
 ## Research Question 
 How does manipulating intrinsic factors and the timing in which someone makes a Judgment of Learning (JOL) affect predictions of later recall ability, and can individuals demonstrate learning of the Serial Position Effect when predicting how well they will recall information in the future whether or not serial position is visibly available to them?
