@@ -1,8 +1,8 @@
 # Judgments of Learning and The Serial Position Effect
 #### A MATLAB PROJECT BY CLAIRE DINAUER || JUNE 9, 2020
 
+## Overview
 This program runs a free recall task, in which participants must make Judgments of Learning (JOLs) for how likely they think they are to recall words on a later recall test. 
-
 
 > **Research Questions:**
 > 1. Will people make more accurate JOLs that are reflective of the Serial Position effect if they make a JOL before or after a word is presented? 
