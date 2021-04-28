@@ -23,20 +23,20 @@ I expect that manipulating font size in addition to manipulating when subjects m
 
 **Condition #2:** Varied Font Size and JOL Made Before Each Word
 
-[Condition 2](ExpectedJOLsCondition2.png)
+<img src="ExpectedJOLsCondition2.png" width="500" height="350"/>
 
 **Condition #3:** Consistent Font Size and JOL Made After Each Word
 
-[Condition 3](ExpectedJOLsCondition3.png)
+<img src="ExpectedJOLsCondition3.png" width="500" height="350"/>
 
 **Condition #4:** Varied Font Size and JOL Made After Word
 
-[Condition 4](ExpectedJOLsCondition4.png)
+<img src="ExpectedJOLsCondition4.png" width="500" height="350"/>
 
 **Condition #5:** Consistent Font Size, JOL Made After Word, and Serial Number Included
 
-[Condition 5](ExpectedJOLsCondition5.png)
+<img src="ExpectedJOLsCondition5.png" width="500" height="350"/>
 
 **Condition #6:** Varied Font Size, JOL Made After Word, and Serial Number Included
 
-[Condition 6](ExpectedJOLsCondition6.png)
+<img src="ExpectedJOLsCondition6.png" width="500" height="350"/>
