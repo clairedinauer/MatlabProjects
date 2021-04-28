@@ -1,8 +1,5 @@
 # Judgments of Learning and The Serial Position Effect
-
-Claire Dinauer
-
-June 9, 2020
+### A MATLAB PROJECT BY CLAIRE DINAUER || JUNE 9, 2020
 
 *This project explores how people make predictions of their own learning (or Judgments of Learning), and how awareness of the Serial Position Effect may influence the accuracy of individuals' predictions for how well they will learn information*
 
