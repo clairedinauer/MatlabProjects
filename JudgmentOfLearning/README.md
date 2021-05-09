@@ -5,19 +5,23 @@ June 9, 2020
 ## Overview
 This program runs a free recall task, in which participants must make Judgments of Learning (JOLs) for how likely they think they are to recall words on a later recall test. 
 
-> **Research Questions:**
+**Research Questions:**
+
 > 1. Will people make more accurate JOLs that are reflective of the Serial Position effect if they make a JOL before or after a word is presented? 
 > 2. Does font size influence our JOLs and actual recall?
 
-> **Two Independent Variables:**
+**Two Independent Variables:**
+
 > 1. When JOL is Made: Before Word Presentation vs After Word Presentation
 > 2. Font Size: Words are Same Size vs Words are Different Sizes
 
-> **Dependent Variables:**
+**Dependent Variables:**
+
 > 1. JOLs made on each trial (percentage of 0 to 100)
 > 2. Actual recall of words  (percentage of 0 to 100)
 
-> **Conditions are as follows:**
+**Conditions are as follows:**
+
 > - Condition 1: JOLs are made after each word and font size is constant
 > - Condition 2: JOLs are made after each word and font size is varied
 > - Condition 3: JOLs are made before each word and font size is constant
